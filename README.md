@@ -49,10 +49,10 @@ Welcome to my GitHub profile! I'm a passionate **AI & Data Science** enthusiast 
   - Implemented machine learning models for data classification tasks using **TensorFlow** and **Keras**.
 
 ## 🌍 Let's Connect:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin) **Connect with me on LinkedIn**
-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-kaggle) **Check out my Kaggle profile**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hieu-truong-it/) **Connect with me on LinkedIn**
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hiutrngtrng) **Check out my Kaggle profile**
 - [![Website](https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com) **Visit my personal website**
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) **Send me an email**
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tronghieutruonghp@gmail.com) **Send me an email**
 
 ---
 
