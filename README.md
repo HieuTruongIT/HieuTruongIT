@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Truong Trong Hieu, but feel free to call me Zeref Dragneel.
+# 👋 Hi there! I'm Truong Trong Hieu, but feel free to call me Shinichi.
 
 Welcome to my GitHub profile! I'm a passionate **AI & Data Science** enthusiast with a strong foundation in **Python**, **Go**, **Java**, **C++**, and **R**. I specialize in **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Data Analytics**. I enjoy solving complex problems and creating impactful projects in the AI field. Let's connect and collaborate on cool projects! 🚀
 
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate **AI & Data Science** enthusiast 
 [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)](http://hadoop.apache.org/)
 
 ## 📊 My GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=HieuTruongIT&show_icons=true&count_private=true&hide=prs&theme=flame)
 
 ## 📈 Featured Projects:
 - [**AI Chatbot**](https://github.com/YourGitHubUsername/ai-chatbot): A chatbot powered by **Natural Language Processing (NLP)** and **Deep Learning** using **TensorFlow** and **Keras**.
