@@ -7,9 +7,27 @@ Welcome to my GitHub profile! I'm a passionate **AI & Data Science** enthusiast 
   </a>
 </div>
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Profile%20views-<125>-blue?style=flat&logo=github" alt="profile views" /> 
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Profile%20views-125-blue?style=flat&logo=github" alt="Profile views" />
 </p>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://github.com/imvickykumar999" target="_blank">
+    <img src="https://img.shields.io/github/followers/imvickykumar999?style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/imvickykumar999?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/imvickykumar999?style=social" alt="GitHub Stars" />
+  </a>
+</div>
+
+<style>
+  img {
+    transition: transform 0.3s ease;
+  }
+  img:hover {
+    transform: scale(1.1);
+  }
+</style>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -29,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate **AI & Data Science** enthusiast 
 <tr>
 	
 <th>
-<a href="https://github.com/imvickykumar999">
+<a href="https://github.com/HieuTruongIT">
 Honest Page View
 </a>
 </th>
@@ -46,7 +64,7 @@ Triggered Page View
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imvickykumar999&color=blue&label=PROFILE+VIEWS&style=flat-square" alt="imvickykumar999"/> </p>
 </td>
 <td>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imvickykumar&color=orange&label=PROFILE+VIEWS&style=flat-square" alt="imvickykumar999"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HieuTruongIT&color=orange&label=PROFILE+VIEWS&style=flat-square" alt="HieuTruongIT"/> </p>
 </td>
 </tr>
 
@@ -62,12 +80,6 @@ Since 21 Dec 2022 (reset)
 </tr>
 </table>
 <br> 
-
-<div align="center">
-    <img src="https://img.shields.io/github/followers/imvickykumar999?style=social" alt="GitHub Followers">
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/github/stars/imvickykumar999?style=social" alt="GitHub Stars">
-</div>
 
 <!-- <br>
 
