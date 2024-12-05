@@ -1,44 +1,84 @@
-# 👋 Hi there! I'm Truong Trong Hieu, but feel free to call me Shinichi.
+## Hi there! 👋 I'm Truong Trong Hieu
 
 Welcome to my GitHub profile! I'm a passionate **AI & Data Science** enthusiast with a strong foundation in **Python**, **Go**, **Java**, **C++**, and **R**. I specialize in **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Data Analytics**. I enjoy solving complex problems and creating impactful projects in the AI field. Let's connect and collaborate on cool projects! 🚀
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Python+Programmer&font=Fira%20Code&center=true&width=500&height=45&color=blue&vCenter=true&size=22&pause=1000"></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+fresher+AI+Engineer+🚀🤖✨&font=Fira%20Code&center=true&width=500&height=45&color=blue&vCenter=true&size=22&pause=1000">
+  </a>
+</div>
 
-## 🧠 Currently Exploring:
-- **AI & Machine Learning**: Neural Networks, Deep Learning, NLP, Reinforcement Learning
-- **Data Science**: Data Visualization, Predictive Modeling, Time Series Analysis
-- **Big Data**: Spark, Hadoop, NoSQL Databases, Cloud Computing
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Profile%20views-<125>-blue?style=flat&logo=github" alt="profile views" /> 
+</p>
 
-## 💻 Languages & Technologies:
-### **Programming Languages**:
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HieuTruongIT&theme=flat&row=1&column=5&margin-w=15&margin-h=15" alt="HieuTruongIT" />
+  </a> 
+</p>
 
-### **Frameworks & Libraries**:
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-### **Data Science & Visualization**:
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-003C5A?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-9E6A88?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HieuTruongIT&show_icons=true&locale=en&layout=compact" alt="HieuTruongIT" /></p>
 
-### **Big Data & Cloud**:
-[![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
-[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)](http://hadoop.apache.org/)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HieuTruongIT&show_icons=true&locale=en" alt="HieuTruongIT" /></p>
 
-## 📊 My GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=HieuTruongIT&show_icons=true&count_private=true&hide=prs&theme=flame)
+<br>
+<table align="center">
+<tr>
+	
+<th>
+<a href="https://github.com/imvickykumar999">
+Honest Page View
+</a>
+</th>
 
-## 📈 Featured Projects:
-- [**AI Chatbot**](https://github.com/YourGitHubUsername/ai-chatbot): A chatbot powered by **Natural Language Processing (NLP)** and **Deep Learning** using **TensorFlow** and **Keras**.
-- [**Predictive Analytics Model**](https://github.com/YourGitHubUsername/predictive-analytics): A data science project predicting **stock market trends** using **machine learning** algorithms in **Python**.
-- [**Image Classifier**](https://github.com/YourGitHubUsername/image-classifier): Built an **image classification** model using **Deep Learning** with **PyTorch**.
-- [**Big Data Processing with Spark**](https://github.com/YourGitHubUsername/big-data-spark): Implemented **big data** processing pipelines using **Apache Spark** and **Hadoop**.
+<th>
+<a href="https://github.com/imvickykumar999/GitHub-Views-Counter-Hacks#archived-backup">
+Triggered Page View
+</a>
+</th>
+</tr>
+
+<tr>
+<td>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imvickykumar999&color=blue&label=PROFILE+VIEWS&style=flat-square" alt="imvickykumar999"/> </p>
+</td>
+<td>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imvickykumar&color=orange&label=PROFILE+VIEWS&style=flat-square" alt="imvickykumar999"/> </p>
+</td>
+</tr>
+
+<tr>
+<td>
+Since 18 Dec 2021 (set)
+</td>
+
+<td>
+Since 21 Dec 2022 (reset)
+</td>
+	
+</tr>
+</table>
+<br> 
+
+<div align="center">
+    <img src="https://img.shields.io/github/followers/imvickykumar999?style=social" alt="GitHub Followers">
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/github/stars/imvickykumar999?style=social" alt="GitHub Stars">
+</div>
+
+<!-- <br>
+
+- `My followers are from ...` [`Here`](https://imvickykumar999.github.io/imvickykumar999/) -->
+
+<div align="center">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imvickykumar999&theme=gruvbox-duo" alt="mystreak">
+<br><br>
+</div>
+
 
 ## 💼 Experience:
 - **Data Scientist Intern** at [Bosch Global Software Technologies Company Limited](https://company-website.com) (June 2023 - August 2023)
