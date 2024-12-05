@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm Truong Trong Hieu, but feel free to call me Shinichi.
 
 Welcome to my GitHub profile! I'm a passionate **AI & Data Science** enthusiast with a strong foundation in **Python**, **Go**, **Java**, **C++**, and **R**. I specialize in **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Data Analytics**. I enjoy solving complex problems and creating impactful projects in the AI field. Let's connect and collaborate on cool projects! 🚀
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Python+Programmer&font=Fira%20Code&center=true&width=500&height=45&color=blue&vCenter=true&size=22&pause=1000"></a>
 
 ## 🧠 Currently Exploring:
 - **AI & Machine Learning**: Neural Networks, Deep Learning, NLP, Reinforcement Learning
