@@ -84,8 +84,8 @@ Since 21 Dec 2024 (reset)
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HieuTruongIT&show_icons=true&locale=en" alt="HieuTruongIT" width="200" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HieuTruongIT&theme=gruvbox-duo" alt="mystreak" width="200" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HieuTruongIT&show_icons=true&locale=en" alt="HieuTruongIT" width="300" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HieuTruongIT&theme=gruvbox-duo" alt="mystreak" width="300" height="150" />
 </p>
 
 
