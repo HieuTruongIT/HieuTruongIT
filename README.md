@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **AI & Data Science** enthusiast 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+fresher+AI+Engineer+🚀🤖✨&font=Fira%20Code&center=true&width=500&height=45&color=blue&vCenter=true&size=22&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Fresher+AI+Engineer+🚀🤖✨&font=Fira%20Code&center=true&width=500&height=45&color=blue&vCenter=true&size=22&pause=1000">
   </a>
 </div>
 
