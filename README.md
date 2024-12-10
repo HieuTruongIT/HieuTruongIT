@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **AI & Data Science** enthusiast 
 
 <div align="center" style="display: flex; justify-content: space-evenly; align-items: center; width: 100%;">
   <a> 
-    <img src="https://img.shields.io/badge/Profile%20views-125-blue?style=flat&logo=github" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Profile%20views-308-blue?style=flat&logo=github" alt="Profile views" />
   </a>
   <a href="https://github.com/HieuTruongIT" target="_blank">
     <img src="https://img.shields.io/github/followers/HieuTruongIT?style=social" alt="GitHub Followers" />
