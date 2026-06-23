@@ -1,46 +1,18 @@
-
-<h1 align="center">👋 Hi, I'm <strong> Trương Trọng Hiếu</strong></h1>
-
-Welcome to my GitHub profile! I'm a passionate **AI & Data Science** enthusiast with a strong foundation in **Python**, **Go**, **Java**, **C++**, and **R**. I specialize in **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Data Analytics**. I enjoy solving complex problems and creating impactful projects in the AI field. Let's connect and collaborate on cool projects! 🚀
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Middler+AI+Engineer+🚀🤖✨&font=Fira%20Code&center=true&width=500&height=45&color=blue&vCenter=true&size=22&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I'm+Shinichi+|+I'm+a+Junior+AI+Engineer+|+Data+Engineer+|+AI+Agents+|+LLMs+|+RAG&font=Fira%20Code&center=true&width=1000&height=40&color=blue&vCenter=true&size=18&pause=1000">
   </a>
 </div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/39088a69-bb95-4fe7-aff9-eb948b7450fa" alt="Kafka Use Cases"  width="400" />
-</p>
+<hr>
 
 
-<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; width: 100%;">
-  <a> 
-    <img src="https://img.shields.io/badge/Profile%20views-308-blue?style=flat&logo=github" alt="Profile views" />
-  </a>
-  <a href="https://github.com/HieuTruongIT" target="_blank">
-    <img src="https://img.shields.io/github/followers/HieuTruongIT?style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/HieuTruongIT?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/stars/HieuTruongIT?style=social" alt="GitHub Stars" />
-  </a>
+<div align="center">
+  <img src="https://bsp.vn/asset/web/image/bsp_tech.png" width="800" alt="BSP Tech Stack">
 </div>
-<br>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HieuTruongIT&theme=flat&row=1&column=5&margin-w=15&margin-h=15&label=intern,fresher" alt="HieuTruongIT" />
-  </a> 
-</p>
 
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-![image](https://github.com/user-attachments/assets/1d0daa47-9148-4468-8b56-1a1033fd7c06)
-
-
-### 🌐 Languages
+#### Programming Languages:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -53,7 +25,6 @@ Welcome to my GitHub profile! I'm a passionate **AI & Data Science** enthusiast 
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&?logoWidth=90&logo=postgresql)
 ![bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 
-### ⚙️ Technologies
 #### Data Science and analytics
 ![Matlab](https://img.shields.io/badge/-Matlab-000.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSIxNi44MDMiIHkxPSIxNi42MzEiIHgyPSIxNS4wMTMiIHkyPSIyMi40MTEiIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMSwgMCwgMCwgLTEsIDAsIDMyKSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzUxMiIvPjxzdG9wIG9mZnNldD0iMC4yMyIgc3RvcC1jb2xvcj0iIzUyMyIvPjxzdG9wIG9mZnNldD0iMC4zNiIgc3RvcC1jb2xvcj0iIzUzNCIvPjxzdG9wIG9mZnNldD0iMC41MSIgc3RvcC1jb2xvcj0iIzY0NSIvPjxzdG9wIG9mZnNldD0iMC42NiIgc3RvcC1jb2xvcj0iIzU2OCIvPjxzdG9wIG9mZnNldD0iMC44NCIgc3RvcC1jb2xvcj0iIzI5ZCIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJiIiB4MT0iMjkuNzEiIHkxPSIxOC45ODMiIHgyPSIxMS43MSIgeTI9IjE0LjU2MyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMC4wODEiIHN0b3AtY29sb3I9IiNjMzMiLz48c3RvcCBvZmZzZXQ9IjAuMTg5IiBzdG9wLWNvbG9yPSIjZGU1MjM5Ii8+PHN0b3Agb2Zmc2V0PSIwLjMxMyIgc3RvcC1jb2xvcj0iI2YwNmUzZSIvPjxzdG9wIG9mZnNldD0iMC40MjEiIHN0b3AtY29sb3I9IiNmYTgwNDIiLz48c3RvcCBvZmZzZXQ9IjAuNSIgc3RvcC1jb2xvcj0iI2ZlODY0MyIvPjxzdG9wIG9mZnNldD0iMC41OCIgc3RvcC1jb2xvcj0iI2ZhN2Y0MiIvPjxzdG9wIG9mZnNldD0iMC42OTYiIHN0b3AtY29sb3I9IiNlZjZjM2UiLz48c3RvcCBvZmZzZXQ9IjAuODMzIiBzdG9wLWNvbG9yPSIjZGM0YzM3Ii8+PHN0b3Agb2Zmc2V0PSIwLjkxNiIgc3RvcC1jb2xvcj0iI2NmMzYzMyIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjx0aXRsZT5maWxlX3R5cGVfbWF0bGFiPC90aXRsZT48cGF0aCBkPSJNMiwxNy41NWw3Ljk3LTMuMjJhMjAuNywyMC43LDAsMCwxLDIuNzItMi45NWMuNjYtLjM1LDEuOS0uMTYsNC4xNy0yLjk4LDIuMi0yLjc1LDIuOS01LjEsMy45My01LjEsMS42MywwLDIuODMsMy41Miw0LjY1LDguODVBMTE1LjYyOSwxMTUuNjI5LDAsMCwwLDMwLDI0LjEyYy0xLjktMS43Ny0zLjUyLTMuNjgtNS4zNy0zLjYzLTEuNzIuMDQtMy42MywyLjA4LTUuNzIsNC43LTEuNjYsMi4xLTMuODYsMy41NC00LjcyLDMuNTEsMCwwLTIuMjItNi4yOC00LjA4LTcuM2EyLjY0MSwyLjY0MSwwLDAsMC0yLjM5LjJMMiwxNy41NFoiIHN0eWxlPSJmaWxsOiM0OWQiLz48cGF0aCBkPSJNMTkuOCw0LjAyYy0uNjcuOS0xLjQ4LDIuNTUtMi45NCw0LjM4LTIuMjcsMi44Mi0zLjUsMi42My00LjE3LDIuOThhMTkuNjc0LDE5LjY3NCwwLDAsMC0yLjcyLDIuOTVsMy4zLDIuNDFjMi44LTMuODIsNC4zLTcuOTYsNS40Ny0xMC42NEExMy41NzksMTMuNTc5LDAsMCwxLDE5LjgsNC4wMloiIHN0eWxlPSJmaWxsOnVybCgjYSkiLz48cGF0aCBkPSJNMjAuOCwzLjNjLTIuMTgsMC0zLjY3LDExLjQ4LTExLjcyLDE3Ljg5LDIuMjYtLjM3LDQuMjIsNS4yNCw1LjEyLDcuNTEsNC0uNjgsNy4yLTguMzMsMTAuNDMtOC4yMSwxLjg1LjA3LDMuNDcsMS44Niw1LjM3LDMuNjNDMjUuNjYsMTUsMjMuNjMsMy4zLDIwLjgsMy4zWiIgc3R5bGU9ImZpbGw6dXJsKCNiKSIvPjwvc3ZnPg==)
 ![Pandas](https://img.shields.io/badge/pandas%20-000.svg?&style=flat&logo=pandas&logoColor=2D2363)&nbsp;
@@ -111,54 +82,6 @@ Welcome to my GitHub profile! I'm a passionate **AI & Data Science** enthusiast 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![visualstudio](https://img.shields.io/badge/-VisualStudio-000?style=flat&logo=visualstudio&logoColor=61218F)
 ![databricks](https://img.shields.io/badge/-databricks-000?style=flat&logo=databricks)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HieuTruongIT&show_icons=true&locale=en&layout=compact" alt="HieuTruongIT" /></p>
-<br>
-<table align="center">
-<tr>
-	
-<th>
-<a href="https://github.com/HieuTruongIT">
-Honest Page View
-</a>
-</th>
-
-<th>
-<a href="https://github.com/HieuTruongIT/GitHub-Views-Counter-Hacks#archived-backup">
-Triggered Page View
-</a>
-</th>
-</tr>
-
-<tr>
-<td>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=HieuTruongIT&color=blue&label=PROFILE+VIEWS&style=flat-square" alt="HieuTruongIT"/> </p>
-</td>
-<td>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=HieuTruongIT&color=orange&label=PROFILE+VIEWS&style=flat-square" alt="HieuTruongIT"/> </p>
-</td>
-</tr>
-
-<tr>
-<td>
-Since 18 Dec 2023 (set)
-</td>
-
-<td>
-Since 21 Dec 2024 (reset)
-</td>
-	
-</tr>
-</table>
-<br> 
-
-
-
-
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HieuTruongIT&show_icons=true&locale=en" alt="HieuTruongIT" width="250" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HieuTruongIT&theme=gruvbox-duo" alt="mystreak" width="250" height="150" />
-</p>
 
 
 
