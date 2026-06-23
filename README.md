@@ -99,16 +99,12 @@
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-000?&logo=googlecolab)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-000?&logo=kaggle)
 
+<hr>
 
+<div align="left">
+  <img src="https://i.ibb.co/dwhmRYWg/screenshot-1782213777.png" width="800" alt="Work experience">
+</div>
 
-## 💼 Experience:
-- **Data Scientist Intern** at [Bosch Global Software Technologies Company Limited](https://company-website.com) (June 2023 - August 2023)
-  - Developed predictive models to optimize business operations using **Python** and **scikit-learn**.
-  - Built real-time dashboards using **Tableau** and **Matplotlib** for data visualization.
-
-- **AI Research Assistant** at [University of Transport](https://university-website.com) (September 2022 - May 2023)
-  - Conducted research in **Natural Language Processing** (NLP) to improve sentiment analysis algorithms.
-  - Implemented machine learning models for data classification tasks using **TensorFlow** and **Keras**.
 
 <hr>
 
@@ -119,7 +115,7 @@
 &nbsp;&nbsp;
 👉 <a href="https://www.linkedin.com/in/hieu-truong-it/">hieu-truong-it</a> 👈
 <br><br>
-<img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="25" align="center"/>
+<img src="https://www.logomyway.com/logos_new/28250/myCV-logo-LMW-2-03_513713483913.png" width="45" align="center"/>
 &nbsp;&nbsp;
 👉<a href="https://cvdesignr.com/p/6672feda97dce">View my CV </a> 👈
 <br><br>
