@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I'm+Shinichi+|+I'm+a+Junior+AI+Engineer+|+Data+Engineer+|+AI+Agents+|+LLMs+|+RAG&font=Fira%20Code&center=true&width=1000&height=40&color=blue&vCenter=true&size=18&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+|+Data+Engineer+|+AI+Agents+|+LLMs+|+RAG&font=Fira%20Code&center=true&width=1000&height=40&color=blue&vCenter=true&size=18&pause=1000">
   </a>
 </div>
 
@@ -110,23 +110,25 @@
   - Conducted research in **Natural Language Processing** (NLP) to improve sentiment analysis algorithms.
   - Implemented machine learning models for data classification tasks using **TensorFlow** and **Keras**.
 
-## 🌍 Let's Connect:
+<hr>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hieu-truong-it/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/hiutrngtrng">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:tronghieutruonghp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+#### Contact for Work
+
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="25" align="center"/>
+&nbsp;&nbsp;
+👉 <a href="https://www.linkedin.com/in/hieu-truong-it/">hieu-truong-it</a> 👈
+<br><br>
+<img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="25" align="center"/>
+&nbsp;&nbsp;
+👉<a href="https://cvdesignr.com/p/6672feda97dce">View my CV </a> 👈
+<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" width="25" align="center"/>
+&nbsp;&nbsp;
+👉 <a> 0355668147 </a>👈
 </p>
 
+<hr>
 
 ### 🚀 Fun Fact:
 I'm constantly exploring new AI advancements and love experimenting with new tools and techniques to solve real-world problems. If you're passionate about Data Science, Machine Learning, or AI, let's collaborate on something exciting!
