@@ -87,11 +87,6 @@
 
 <hr>
 
-<div align="left">
-  <img src="https://i.ibb.co/dwhmRYWg/screenshot-1782213777.png" width="800" alt="Work experience">
-</div>
-
-
 <hr>
 
 *Feel free to check out my repositories and contribute! I’m open to suggestions and collaborations.* 😊
