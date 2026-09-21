@@ -1,17 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+|+Data+Engineer+|+AI+Agents+|+LLMs+|+RAG&font=Fira%20Code&center=true&width=1000&height=40&color=blue&vCenter=true&size=18&pause=1000">
-  </a>
-</div>
-
-<hr>
-
-
-<div align="center">
-  <img src="https://bsp.vn/asset/web/image/bsp_tech.png" width="800" alt="BSP Tech Stack">
-</div>
-
-
 #### Programming Languages:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -107,28 +93,5 @@
 
 
 <hr>
-
-#### Contact for Work
-
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="25" align="center"/>
-&nbsp;&nbsp;
-👉 <a href="https://www.linkedin.com/in/hieu-truong-it/">hieu-truong-it</a> 👈
-<br><br>
-<img src="https://www.logomyway.com/logos_new/28250/myCV-logo-LMW-2-03_513713483913.png" width="45" align="center"/>
-&nbsp;&nbsp;
-👉<a href="https://cvdesignr.com/p/6672feda97dce">View my CV </a> 👈
-<br><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" width="25" align="center"/>
-&nbsp;&nbsp;
-👉 <a> 0355668147 </a>👈
-</p>
-
-<hr>
-
-### 🚀 Fun Fact:
-I'm constantly exploring new AI advancements and love experimenting with new tools and techniques to solve real-world problems. If you're passionate about Data Science, Machine Learning, or AI, let's collaborate on something exciting!
-
----
 
 *Feel free to check out my repositories and contribute! I’m open to suggestions and collaborations.* 😊
