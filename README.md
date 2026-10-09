@@ -1,5 +1,5 @@
 
-# Hi there, I'm Hieu Truong 👋
+## Hi there, I'm Hieu Truong 👋
 
 I'm a Junior IT Engineer 
 
